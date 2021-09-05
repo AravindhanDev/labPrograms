@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/labPrograms/static/js/main.df445834.chunk.js",
+    "main.js.map": "/labPrograms/static/js/main.df445834.chunk.js.map",
+    "runtime-main.js": "/labPrograms/static/js/runtime-main.a301d3b4.js",
+    "runtime-main.js.map": "/labPrograms/static/js/runtime-main.a301d3b4.js.map",
+    "static/js/2.2d265f19.chunk.js": "/labPrograms/static/js/2.2d265f19.chunk.js",
+    "static/js/2.2d265f19.chunk.js.map": "/labPrograms/static/js/2.2d265f19.chunk.js.map",
+    "index.html": "/labPrograms/index.html",
+    "precache-manifest.cecf48d7b5e5532d2498aa9de096036d.js": "/labPrograms/precache-manifest.cecf48d7b5e5532d2498aa9de096036d.js",
+    "service-worker.js": "/labPrograms/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a301d3b4.js",
+    "static/js/2.2d265f19.chunk.js",
+    "static/js/main.df445834.chunk.js"
+  ]
+}
